@@ -34,3 +34,9 @@ Results for MIT Dataset:
 
 ![alt text](https://github.com/nassim12/2d_SLAM/blob/main/figures/MIT_unoptimized.png) 
 ![alt text](https://github.com/nassim12/2d_SLAM/blob/main/figures/MIT_optimized.png)
+
+Execution:
+Execute the slam.m in MATLAB, select the data filename that exist in the data folder and comment others.
+
+
+note: the QR factorization for sparse Hessian had some issue therefore we eliminated it.
